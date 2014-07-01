@@ -1,0 +1,19 @@
+body{
+  color : white;
+  font-family : arial;
+}
+
+.affichage_categorie{
+  border : white 1px;
+  background-color : #404040;
+  display : inline-block;
+  margin : 10px 5px 10px 5px
+}
+
+@media screen and (max-width: 640px) {
+  .affichage_categorie{
+  border : white 1px;
+  background-color : #404040;
+  display : block;
+}
+  
