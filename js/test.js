@@ -2,7 +2,7 @@
                     
    function affichage(categrorie){
      if (categorie.c_showInMenu==1)
-     $(#new_div().id).append(categorie.name);
+     $('#'+new_div().id).append(categorie.name);
    }
 
     function new_div()
