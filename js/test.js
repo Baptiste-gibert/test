@@ -1,6 +1,6 @@
 
                     
-   function affichage(categrorie){
+   function affichage(categorie){
      if (categorie.c_showInMenu==1)
      $('#'+new_div(id_div+1).id).append(categorie.name);
    }
