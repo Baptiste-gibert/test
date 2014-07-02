@@ -11,7 +11,7 @@ $(document).ready(function() {
                 if ( data.c_showInMenu === 1 ) {
                     for ( var i=0, len=data.categories.length; i<len; i++) {
                         // console.log(data.categories[i].id);
-                        tbl=tbl+'<div class="col-lg-3"><div class="col-md-12 parent-cat">'+data.categories[i].id +'</div></div>';
+                        tbl=tbl+'<div class="col-lg-3 visible-xs-12"><div class="col-lg-12 visible-xs-12 parent-cat">'+data.categories[i].id +'</div></div>';
 
                         if ( j % 4 === 0 ) {
                             tbl+='</div><div class="row">';
