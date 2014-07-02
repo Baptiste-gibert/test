@@ -1,12 +1,915 @@
 {
-"categories":[],
-"id":"specialoffer",
-"name":"Offres spéciales",
-"page_title":"Offre Speciale Quiksilver",
-"parent_category_id":"root",
-"c_enableCompare":true,
-"c_mccExcludeMobile":1,
-"c_saleCategory":false,
-"c_seoAssetID":"specialoffer-categorie-1-seo-description",
-"c_showInMenu":0
+  "_v":"13.1",
+  "categories":[
+    {
+      "categories":[
+
+      ],
+      "id":"specialoffer",
+      "name":"Offres spéciales",
+      "page_title":"Offre Speciale Quiksilver",
+      "parent_category_id":"root",
+      "c_enableCompare":true,
+      "c_mccExcludeMobile":1,
+      "c_saleCategory":false,
+      "c_seoAssetID":"specialoffer-categorie-1-seo-description",
+      "c_showInMenu":0
+    },
+    {
+      "categories":[
+        {
+          "id":"men_boardshorts",
+          "name":"Boardshorts",
+          "page_description":"Retrouvez toute la collection de boardshorts Homme Quiksilver sur le Magasin en ligne officiel Quiksilver. LIVRAISON OFFERTE",
+          "page_title":"Boardshort : la collection de Boardshorts Homme",
+          "parent_category_id":"men",
+          "c_enableCompare":true,
+          "c_mccExcludeMobile":0,
+          "c_saleCategory":false,
+          "c_seoAssetID":"men-boardshorts-top-category-seo-description",
+          "c_showInMenu":1
+        },
+        {
+          "id":"men_clothing",
+          "name":"Vêtements",
+          "page_description":"Retrouvez toute la collection de vêtements Homme Quiksilver sur le Magasin en ligne officiel Quiksilver. LIVRAISON OFFERTE",
+          "page_title":"Vêtements Homme: la Collection de Vêtements Homme",
+          "parent_category_id":"men",
+          "c_enableCompare":true,
+          "c_mccExcludeMobile":0,
+          "c_seoAssetID":"men-clothing-seo-description",
+          "c_showInMenu":1
+        },
+        {
+          "id":"men_accessories",
+          "name":"Accessoires",
+          "page_description":"Retrouvez toute la collection de Chaussures Homme Quiksilver sur le Magasin en ligne officiel Quiksilver. LIVRAISON OFFERTE",
+          "page_title":"Accessoires Homme: La Collection d'accessoires Homme",
+          "parent_category_id":"men",
+          "c_enableCompare":true,
+          "c_mccExcludeMobile":0,
+          "c_seoAssetID":"men-accessories-seo-description",
+          "c_showInMenu":1
+        },
+        {
+          "id":"men_footwear",
+          "name":"Chaussures",
+          "page_description":"Retrouvez toute la collection d'Accessoires Homme Quiksilver sur le Magasin en ligne officiel Quiksilver. LIVRAISON OFFERTE",
+          "page_title":"Chaussures Homme: la Collection de Chaussures Homme",
+          "parent_category_id":"men",
+          "c_enableCompare":true,
+          "c_mccExcludeMobile":0,
+          "c_showInMenu":1,
+          "c_sizeChartID":"size_chart_men_footwear"
+        },
+        {
+          "id":"men_surf",
+          "name":"Surf",
+          "page_description":"Retrouvez le plus grand choix de Vêtments de Surf et Accessoires de Surf Homme Quiksilver sur le Surf Shop en ligne Officiel Quiksilver. LIVRAISON OFFERTE",
+          "page_title":"Vêtements de Surf Homme et Accessoires de Surf",
+          "parent_category_id":"men",
+          "c_enableCompare":true,
+          "c_mccExcludeMobile":0,
+          "c_showInMenu":1
+        },
+        {
+          "id":"men_ski",
+          "name":"Snow",
+          "page_description":"Retrouvez le plus grand choix de Vêtments de Ski et Accessoires de Ski Homme Quiksilver sur le Ski Shop en ligne Officiel Quiksilver. LIVRAISON OFFERTE",
+          "page_title":"Vêtments de Ski et Accessoires de Ski Homme",
+          "parent_category_id":"men",
+          "c_enableCompare":true,
+          "c_mccExcludeMobile":0,
+          "c_showInMenu":1
+        },
+        {
+          "id":"men_collections",
+          "name":"Collections",
+          "page_description":"Retrouvez toute la collection pour Homme Quiksilver sur le Magasin en ligne officiel Quiksilver. LIVRAISON OFFERTE",
+          "page_title":"Collection Homme Automne - Hiver 2013 / 2014",
+          "parent_category_id":"men",
+          "c_enableCompare":true,
+          "c_mccExcludeMobile":1,
+          "c_seoAssetID":"men-collection-category-seo-description",
+          "c_showInMenu":0
+        },
+        {
+          "id":"men_limitededition",
+          "name":"Editions Limitées",
+          "page_description":"Découvrez toutes les Editions Limitées et Collections Collectors Quiksilver sur le magasin en ligne officiel Quiksilver. LIVRAISON OFFERTE !!",
+          "page_title":"Editions Limitées : Nos collections Collectors",
+          "parent_category_id":"men",
+          "c_enableCompare":true,
+          "c_mccExcludeMobile":1,
+          "c_showInMenu":0
+        },
+        {
+          "id":"men_gear",
+          "name":"Equipements",
+          "page_description":"Retrouvez tout l'équipement de surf skate et snwoboard Quiksilver sur le Magasin en ligne officiel de la marque. Livraison Gratuite pour toutes vos Commandes !!",
+          "page_title":"Equipement de Surf Snowboard et Skate",
+          "parent_category_id":"men",
+          "c_enableCompare":true,
+          "c_mccExcludeMobile":1,
+          "c_saleCategory":false,
+          "c_showInMenu":0
+        },
+        {
+          "id":"men_sales",
+          "name":"Bons PLans",
+          "page_description":"Retrouvez tous les bons plans vêtements et accessoires Quiksilver pour Homme sur le site officiel. . Livraison Gratuite quelque soit le montant de la commande. ",
+          "page_title":"Bons Plans Homme Quiksilver : Nos Bons Plans et Promos Homme",
+          "parent_category_id":"men",
+          "c_alternativeUrl":"/redirect/sales_men",
+          "c_enableCompare":true,
+          "c_mccExcludeMobile":1,
+          "c_saleCategory":false,
+          "c_seoAssetID":"men-sales-category-seo-description",
+          "c_showInMenu":0
+        }
+      ],
+      "id":"men",
+      "name":"Homme",
+      "page_description":"Découvrez toute la collection de Vêtements et Accessoires pour Homme Quiksilver sur le Magasin en ligne officiel Quiksilver. LIVRAISON GRATUITE",
+      "page_title":"Homme: Vêtements et Accessoires pour Homme",
+      "parent_category_id":"root",
+      "c_enableCompare":true,
+      "c_mccExcludeMobile":0,
+      "c_saleCategory":false,
+      "c_seoAssetID":"top-men-category-seo-description",
+      "c_showDimensions":0,
+      "c_showInMenu":1
+    },
+    {
+      "categories":[
+        {
+          "id":"kids_0816_clothing",
+          "name":"8-16 Vêtements",
+          "page_description":"Retrouvez toute la collection de Vêtements Enfant Quiksilver sur le Magasin en ligne officiel Quiksilver. Livraison offerte pour toute commande",
+          "page_title":"Vêtements Enfant : toute la nouvelle collection",
+          "parent_category_id":"kids",
+          "c_enableCompare":true,
+          "c_mccExcludeMobile":0,
+          "c_seoAssetID":"boys-landing-seo-description",
+          "c_showInMenu":1
+        },
+        {
+          "id":"kids_08-16_accessories",
+          "name":"8-16 Accessoires",
+          "page_description":"Retrouvez toute la collection d'accessoires Enfant Quiksilver sur le Magasin en ligne officiel Quiksilver. Livraison offerte pour toute commande",
+          "page_title":"Accessoires Enfant : toute la nouvelle collection",
+          "parent_category_id":"kids",
+          "c_enableCompare":true,
+          "c_mccExcludeMobile":0,
+          "c_seoAssetID":"boys-categorie-9-seo-description",
+          "c_showInMenu":1
+        },
+        {
+          "id":"kids_08-16_surf",
+          "name":"8-16 Surf",
+          "page_description":"Retrouvez le plus grand choix de Vêtments de Surf et Accessoires de Surf Enfant Quiksilver sur le Surf Shop Enfant Officiel Quiksilver. LIVRAISON OFFERTE",
+          "page_title":"Vêtements de Surf Enfant et Accessoires de Surf Enfant",
+          "parent_category_id":"kids",
+          "c_enableCompare":true,
+          "c_mccExcludeMobile":0,
+          "c_seoAssetID":"boys-categorie-10-seo-description",
+          "c_showInMenu":1
+        },
+        {
+          "id":"kids_08-16_snow",
+          "name":"8-16 Snow",
+          "page_description":"Découvrez le plus grand choix de Vêtments de Ski et Accessoires de Ski Enfant Quiksilver sur le Ski Shop Enfant Officiel Quiksilver. LIVRAISON OFFERTE",
+          "page_title":"Vêtements de Ski Enfant et Accessoires de ski Enfant",
+          "parent_category_id":"kids",
+          "c_enableCompare":true,
+          "c_mccExcludeMobile":0,
+          "c_seoAssetID":"boys-categorie-13-seo-description",
+          "c_showInMenu":1
+        },
+        {
+          "id":"kids_0207",
+          "name":"2-7 ans",
+          "page_description":"Retrouvez tous les vêtements et accessoires Quiksilver Enfant 2 - 7 ans sur le Magasin en ligne officiel Quiksilver. LIVRAISON OFFERTE",
+          "page_title":"Vêtements et accessoires Enfant 2 - 7 ans",
+          "parent_category_id":"kids",
+          "c_enableCompare":true,
+          "c_mccExcludeMobile":0,
+          "c_seoAssetID":"kids-landing-seo-description",
+          "c_showInMenu":1
+        },
+        {
+          "id":"kids_0002",
+          "name":"3-18 mois",
+          "page_description":"Retrouvez tous les vêtements et accessoires Bébé Quiksilver sur le Magasin en ligne officiel Quiksilver. LIVRAISON OFFERTE",
+          "page_title":"Vêtements et accessoires Bébé : La collection Bébé",
+          "parent_category_id":"kids",
+          "c_enableCompare":true,
+          "c_mccExcludeMobile":0,
+          "c_seoAssetID":"Infants-category-seo-description",
+          "c_showInMenu":1
+        },
+        {
+          "id":"kids_0816",
+          "name":"8-16 ans",
+          "page_description":"Retrouvez tous les vêtements et accessoires Quiksilver Garçon 8 - 16 ans sur le Magasin en ligne officiel Quiksilver. LIVRAISON OFFERTE",
+          "page_title":"Vêtements et accessoires Garçon 8-16 ans",
+          "parent_category_id":"kids",
+          "c_enableCompare":true,
+          "c_mccExcludeMobile":1,
+          "c_seoAssetID":"boys-landing-seo-description",
+          "c_showInMenu":0
+        },
+        {
+          "id":"kids_backtoschool",
+          "name":"Rentrée des classes",
+          "page_description":"Retrouvez tous les accessoires Quiksilver pour une Rentrée Scoilaire réussi sur le site officiel Quiksilver. Livraison Gratuite pour toute commande !!",
+          "page_title":"Rentrée Scolaire 2013 : accessoires pour la rentrée",
+          "parent_category_id":"kids",
+          "c_enableCompare":true,
+          "c_mccExcludeMobile":1,
+          "c_saleCategory":false,
+          "c_showInMenu":0
+        },
+        {
+          "id":"kids_christmas",
+          "name":"Noël",
+          "parent_category_id":"kids",
+          "c_alternativeUrl":"http://quiksilver.fr/redirect/christmas_kidsgiftidea",
+          "c_enableCompare":true,
+          "c_mccExcludeMobile":1,
+          "c_showInMenu":0
+        }
+      ],
+      "id":"kids",
+      "name":"Enfant",
+      "page_description":"Découvrez toute la collection de Vêtements et Accessoires pour Enfant Quiksilver sur le Magasin en ligne officiel Quiksilver. LIVRAISON OFFERTE",
+      "page_title":"Enfant : Vêtements et Accessoires pour Enfant",
+      "parent_category_id":"root",
+      "c_enableCompare":true,
+      "c_mccExcludeMobile":0,
+      "c_saleCategory":false,
+      "c_seoAssetID":"kids-top-category-landing-seo-description",
+      "c_showInMenu":1
+    },
+    {
+      "categories":[
+        {
+          "id":"collection_xp",
+          "name":"Explore",
+          "parent_category_id":"collection",
+          "c_enableCompare":true,
+          "c_mccExcludeMobile":0,
+          "c_seoAssetID":"collections-categorie-1-cat-banner",
+          "c_showInMenu":1
+        },
+        {
+          "id":"collection_trends",
+          "name":"Tendances",
+          "parent_category_id":"collection",
+          "c_enableCompare":true,
+          "c_mccExcludeMobile":0,
+          "c_seoAssetID":"collections-categorie-2-cat-banner",
+          "c_showInMenu":1
+        }
+      ],
+      "id":"collection",
+      "name":"Collections",
+      "page_description":"Retrouvez toute la collection pour Homme Quiksilver sur le Magasin en ligne officiel Quiksilver. LIVRAISON OFFERTE",
+      "page_title":"Collection Homme Quiksilver",
+      "parent_category_id":"root",
+      "c_enableCompare":true,
+      "c_mccExcludeMobile":0,
+      "c_showInMenu":1
+    },
+    {
+      "categories":[
+        {
+          "id":"surf_surfshop",
+          "name":"Surf Shop Homme",
+          "page_description":"Surf Shop Quiksilver. Découvrez toute la mode Surf pour Homme Quiksilver Sur le magasin de surf en ligne Officiel Quiksilver. LIVRAISON OFFERTE",
+          "page_title":"Surf Shop : le Magasin de surf en ligne officiel",
+          "parent_category_id":"surf",
+          "c_enableCompare":true,
+          "c_mccExcludeMobile":0,
+          "c_saleCategory":false,
+          "c_seoAssetID":"surf-shop-category-seo-description",
+          "c_showInMenu":1,
+          "c_sizeChartID":"size_chart_men_wetsuits"
+        },
+        {
+          "id":"surf_surfshop_kids",
+          "name":"Surf Shop Enfant",
+          "page_description":"Surf Shop Quiksilver. Découvrez toute la mode Surf pour Enfant Quiksilver Sur le magasin de surf en ligne Officiel Quiksilver. LIVRAISON OFFERTE",
+          "page_title":"Surf Shop Enfant : le surfshop en ligne pour Enfant",
+          "parent_category_id":"surf",
+          "c_enableCompare":true,
+          "c_mccExcludeMobile":0,
+          "c_showInMenu":1
+        },
+        {
+          "id":"surf_collection",
+          "name":"Collections",
+          "page_description":"Mode Surf : Découvrez toute la Collection Surf Quiksilver sur la boutique en ligne officiel. LIVRAISON OFFERTE",
+          "page_title":"Mode Surf Quiksilver : toute la collection Surf ",
+          "parent_category_id":"surf",
+          "c_enableCompare":true,
+          "c_mccExcludeMobile":1,
+          "c_saleCategory":false,
+          "c_seoAssetID":"surf-collection-category-seo-description",
+          "c_showInMenu":0
+        },
+        {
+          "id":"surf_community",
+          "name":"Communauté",
+          "page_description":"Tout l’univers Surf Quiksilver est en ligne ! Des photos, des vidéos, les dernières news des événements glisses et les derniers styles pour l'été!",
+          "page_title":"Communauté Quiksilver Surf : Actu, Events, Vidéos",
+          "parent_category_id":"surf",
+          "c_alternativeUrl":"http://quiksilver.fr/fr/surf/",
+          "c_enableCompare":true,
+          "c_mccExcludeMobile":1,
+          "c_saleCategory":false,
+          "c_showInMenu":1
+        }
+      ],
+      "id":"surf",
+      "name":"Surf",
+      "page_description":"Découvrez toute la collection de vêtemetns et accessoires de Surf Quiksilver sur le Surf Shop en ligne officiel Quiksilver. LIVRAISON OFFERTE",
+      "page_title":"Surf : Vêtements et Accessoires de Surf",
+      "parent_category_id":"root",
+      "c_alternativeUrl":"http://quiksilver.fr/fr/surf/",
+      "c_enableCompare":true,
+      "c_mccExcludeMobile":0,
+      "c_showInMenu":1
+    },
+    {
+      "categories":[
+        {
+          "id":"snow_snowshop",
+          "name":"Snow Shop Homme",
+          "page_description":"Découvrez le plus grand choix de Vêtments de Snow et Accessoires de Snowboard Homme Quiksilver sur le Snow Shop en ligne Quiksilver. LIVRAISON OFFERTE",
+          "page_title":"Snow Shop : Vêtements et Accessoires de Snow Homme",
+          "parent_category_id":"snow",
+          "c_enableCompare":true,
+          "c_mccExcludeMobile":0,
+          "c_saleCategory":false,
+          "c_seoAssetID":"snow-shop-category-seo-description",
+          "c_showInMenu":1
+        },
+        {
+          "id":"snow_snowshop_kids",
+          "name":"Snow Shop Enfant",
+          "page_description":"Découvrez le plus grand choix de Vêtments de Snow et Accessoires de Snowboard Homme Quiksilver sur le Snow Shop en ligne Quiksilver. LIVRAISON OFFERTE",
+          "page_title":"Snow Shop Enfant : Vêtements et Accessoires Enfant",
+          "parent_category_id":"snow",
+          "c_alternativeUrl":"http://quiksilver.fr/redirect/kids_0816_snow",
+          "c_enableCompare":true,
+          "c_mccExcludeMobile":0,
+          "c_showInMenu":1
+        },
+        {
+          "id":"snow_collection",
+          "name":"Collections",
+          "page_description":"Mode Ski et Snowboard : Découvrez toute la Collection de Ski et Snowboard Quiksilver sur la boutique en ligne officiel. LIVRAISON OFFERTE !",
+          "page_title":"Mode Ski et Snow : la collection Sports d'Hiver",
+          "parent_category_id":"snow",
+          "c_enableCompare":true,
+          "c_mccExcludeMobile":1,
+          "c_saleCategory":false,
+          "c_seoAssetID":"snow-collection-category-seo-description",
+          "c_showInMenu":0
+        },
+        {
+          "id":"snow_community",
+          "name":"Communauté",
+          "page_description":"Tout l’univers Snow Quiksilver est en ligne ! Des photos, des vidéos, les dernières news des événements glisses et les derniers styles pour l’hiver !",
+          "page_title":"Communauté Quiksilver Snow : Actu, Events, Vidéos",
+          "parent_category_id":"snow",
+          "c_alternativeUrl":"http://quiksilver.fr/fr/snow/",
+          "c_enableCompare":true,
+          "c_mccExcludeMobile":1,
+          "c_showInMenu":1
+        }
+      ],
+      "id":"snow",
+      "name":"Snow",
+      "page_description":"Découvrez toute la collection Snowboard Quiksilver sur le Snow Shop en ligne officiel Quiksilver. LIVRAISON OFFERTE",
+      "page_title":"Snowboard : Vêtements et Accessoires de Snow",
+      "parent_category_id":"root",
+      "c_alternativeUrl":"http://quiksilver.fr/fr/snow/",
+      "c_enableCompare":true,
+      "c_mccExcludeMobile":0,
+      "c_showInMenu":1
+    },
+    {
+      "categories":[
+        {
+          "id":"sales_men",
+          "name":"Soldes Homme",
+          "page_description":"Soldes Homme Quiksilver. Retrouvez toutes les Soldes Quiksilver pour Homme Sur le Shop en ligne Officiel Quiksilver . LIVRAISON OFFERTE.",
+          "page_title":"Soldes Homme 2014 : nos soldes Eté Homme",
+          "parent_category_id":"sales",
+          "c_catBannerID":"sale-menu-highlight-men",
+          "c_enableCompare":true,
+          "c_mccExcludeMobile":0,
+          "c_saleCategory":true,
+          "c_seoAssetID":"men-sales-category-seo-description",
+          "c_showInMenu":1
+        },
+        {
+          "id":"sales_kids",
+          "name":"Soldes Enfant",
+          "page_description":"Soldes Enfant Quiksilver. Retrouvez toutes les Soldes Quiksilver pour Enfant Sur le Shop en ligne Officiel Quiksilver. LIVRAISON OFFERTE.",
+          "page_title":"Soldes Enfant 2014: nos soldes Eté Enfant",
+          "parent_category_id":"sales",
+          "c_catBannerID":"sale-menu-highlight-kids",
+          "c_enableCompare":true,
+          "c_mccExcludeMobile":0,
+          "c_saleCategory":true,
+          "c_seoAssetID":"kids-sales-category-seo-description",
+          "c_showInMenu":1
+        },
+        {
+          "id":"sales_women",
+          "name":"Soldes Femme",
+          "page_description":"Soldes Femme Quiksilver. Retrouvez toutes les Soldes Quiksilver pour Femme Sur le Shop en ligne Officiel Quiksilver . LIVRAISON OFFERTE.",
+          "page_title":"Soldes Femme 2014 : nos soldes Eté Femme",
+          "parent_category_id":"sales",
+          "c_catBannerID":"sale-menu-highlight-women",
+          "c_enableCompare":true,
+          "c_mccExcludeMobile":0,
+          "c_saleCategory":true,
+          "c_seoAssetID":"women-sales-category-seo-description",
+          "c_showInMenu":1
+        },
+        {
+          "id":"sales_surf",
+          "name":"Bons Plans Surf",
+          "page_description":"Découvrez tous les bons plans Surf Quiksilver &amp; achetez en ligne sur le Magasin officiel Quiksilver. Livraison offerte pour toute Commande",
+          "page_title":"Bons Plans Surf : nos offres & promos",
+          "parent_category_id":"sales",
+          "c_enableCompare":true,
+          "c_mccExcludeMobile":1,
+          "c_saleCategory":true,
+          "c_showInMenu":0
+        },
+        {
+          "id":"sales_shoes",
+          "name":"Chaussures",
+          "page_description":"Découvrez tous les bons plans Chaussures Quiksilver &amp; achetez en ligne sur le Magasin officiel Quiksilver. Livraison offerte pour toute Commande",
+          "page_title":"Bons Plans Chaussures : nos offres & promos",
+          "parent_category_id":"sales",
+          "c_enableCompare":true,
+          "c_mccExcludeMobile":1,
+          "c_saleCategory":false,
+          "c_showInMenu":0
+        },
+        {
+          "id":"sales_watches",
+          "name":"Montres",
+          "page_description":"Découvrez tous les bons plans Montres Quiksilver &amp; achetez en ligne sur le Magasin officiel Quiksilver. Livraison offerte pour toute Commande",
+          "page_title":"Bons Plans Montres : nos offres & promos",
+          "parent_category_id":"sales",
+          "c_enableCompare":true,
+          "c_mccExcludeMobile":1,
+          "c_saleCategory":false,
+          "c_showInMenu":0
+        },
+        {
+          "id":"sales_pants",
+          "name":"Jeans & Pantalons",
+          "page_description":"Découvrez tous les bons plans Jeans &amp; Pantalons Quiksilver",
+          "page_title":"Bons Plans Jeans : nos offres & promos",
+          "parent_category_id":"sales",
+          "c_enableCompare":true,
+          "c_mccExcludeMobile":1,
+          "c_showInMenu":0
+        },
+        {
+          "id":"sales_jackets",
+          "name":"Vestes & Manteaux",
+          "page_description":"Découvrez tous les bons plans Vestes &amp; Manteaux Quiksilver",
+          "page_title":"Bons Plans Vestes : nos offres & promos",
+          "parent_category_id":"sales",
+          "c_enableCompare":true,
+          "c_mccExcludeMobile":1,
+          "c_showInMenu":0
+        },
+        {
+          "id":"sales_bags",
+          "name":"Sacs",
+          "page_description":"Découvrez tous les bons plans Sacs &amp; Sacs à Dos Quiksilver",
+          "page_title":"Bons Plans Sacs & Sacs à dos : les offres",
+          "parent_category_id":"sales",
+          "c_enableCompare":true,
+          "c_mccExcludeMobile":1,
+          "c_showInMenu":0
+        },
+        {
+          "id":"sales_swimwear",
+          "name":"Maillots de Bain",
+          "page_description":"Découvrez tous les bons plans Maillots de Bain Quiksilver &amp; achetez en ligne sur le Magasin officiel Quiksilver. Livraison offerte pour toute Commande",
+          "page_title":"Bons Plans Maillots de Bain : les Offres",
+          "parent_category_id":"sales",
+          "c_enableCompare":true,
+          "c_mccExcludeMobile":1,
+          "c_showInMenu":0
+        },
+        {
+          "id":"sales_clothing",
+          "name":"Vêtements",
+          "page_description":"Découvrez tous les bons plans Vêtements Quiksilver &amp; achetez en ligne sur le Magasin officiel Quiksilver. Livraison offerte pour toute Commande",
+          "page_title":"Bons Plans Vêtements : nos offres & promos",
+          "parent_category_id":"sales",
+          "c_enableCompare":true,
+          "c_mccExcludeMobile":1,
+          "c_saleCategory":false,
+          "c_showInMenu":0
+        },
+        {
+          "id":"sales_snow",
+          "name":"Snow",
+          "page_description":"Découvrez tous les bons plans Ski &amp; Snow Quiksilver",
+          "page_title":"Bons Plans Ski & Snow: nos offres",
+          "parent_category_id":"sales",
+          "c_enableCompare":true,
+          "c_mccExcludeMobile":1,
+          "c_saleCategory":true,
+          "c_showInMenu":0
+        }
+      ],
+      "id":"sales",
+      "name":"Soldes",
+      "page_description":"Toutes les soldes Quiksilver Eté 2014 sont Sur le shop en ligne officiel Quiksilver. LIVRAISON OFFERTE pour toute Commande",
+      "page_title":"Soldes Quiksilver : toutes les Soldes d'Eté 2014",
+      "parent_category_id":"root",
+      "c_enableCompare":true,
+      "c_mccExcludeMobile":0,
+      "c_saleCategory":false,
+      "c_seoAssetID":"sales-top-category-seo-description",
+      "c_showInMenu":1
+    },
+    {
+      "categories":[
+        {
+          "id":"women_collections",
+          "name":"Collections",
+          "page_description":"Retrouvez toute la collection Quiksilver Women sur le Magasin en ligne officielle de la marque. Livraison Gratuite pour toutes vos Commandes !!",
+          "page_title":"Collection Quiksilver Women : Toute la collection",
+          "parent_category_id":"women",
+          "c_enableCompare":true,
+          "c_mccExcludeMobile":1,
+          "c_saleCategory":false,
+          "c_seoAssetID":"women-collection-seo-description",
+          "c_showInMenu":1
+        },
+        {
+          "id":"women_clothing",
+          "name":"Vêtements",
+          "page_description":"Retrouvez tous les vêtements Femme Quiksilver sur le Magasin en ligne officielle de la marque. Livraison Gratuite pour toutes vos Commandes !!",
+          "page_title":"Vêtements Femme: Toute nos Vêtements pour Femme",
+          "parent_category_id":"women",
+          "c_enableCompare":true,
+          "c_mccExcludeMobile":0,
+          "c_saleCategory":false,
+          "c_seoAssetID":"women-clothing-seo-description",
+          "c_showInMenu":1
+        },
+        {
+          "id":"women_accessories",
+          "name":"Accessoires",
+          "page_description":"Retrouvez tous les Accessoires Femme Quiksilver sur le Magasin en ligne officielle de la marque. Livraison Gratuite pour toutes vos Commandes !!",
+          "page_title":"Accessoires Femme: Nos Accessoires Femme",
+          "parent_category_id":"women",
+          "c_enableCompare":true,
+          "c_mccExcludeMobile":0,
+          "c_saleCategory":false,
+          "c_seoAssetID":"women-accessories-top-category-seo-description",
+          "c_showInMenu":1
+        },
+        {
+          "id":"women_swim",
+          "name":"Swimwear",
+          "page_description":"Retrouvez tous le Swimwear Femme Quiksilver sur le Magasin en ligne officielle de la marque. Livraison Gratuite pour toutes vos Commandes !!",
+          "page_title":"Swimwear Quiksilver : Toute la collection Swimwear Femme",
+          "parent_category_id":"women",
+          "c_enableCompare":true,
+          "c_mccExcludeMobile":0,
+          "c_saleCategory":false,
+          "c_seoAssetID":"women-swim-seo-description",
+          "c_showInMenu":1
+        },
+        {
+          "id":"women_snow",
+          "name":"Snow",
+          "page_description":"Retrouvez toute la collection Ski et Snowboard Femme Quiksilver sur le Magasin en ligne officielle de la marque. Livraison Gratuite pour toutes vos Commandes !!",
+          "page_title":"Ski & Snowboard Femme Quiksilver: La Collection Snow & Ski Femme",
+          "parent_category_id":"women",
+          "c_enableCompare":true,
+          "c_mccExcludeMobile":0,
+          "c_showInMenu":1
+        },
+        {
+          "id":"women_sales",
+          "name":"Soldes",
+          "page_description":"Soldes Femme : Quiksilver est le meilleur site pour acheter en ligne vos Soldes pour Femme. Découvrez tous les produits de la collection, consultez les avis des utilisateurs et réalisez votre achat sur notre boutique en ligne !",
+          "page_title":"Soldes Femme Quiksilver : tous nos vêtemetns et Accessoires en Solde",
+          "parent_category_id":"women",
+          "c_alternativeUrl":"/redirect/sales_women",
+          "c_enableCompare":true,
+          "c_mccExcludeMobile":1,
+          "c_showInMenu":0
+        },
+        {
+          "id":"women_community",
+          "name":"Communauté",
+          "page_description":"Tout ce qu’il faut savoir sur l’univers Quiksilver Women ! Découvrez les surfeuses professionnelles, les vidéos les plus populaires et toujours les meilleurs styles !",
+          "page_title":"Communauté Quiksilver Women : Actu, Events, Vidéos, Surf Camp",
+          "parent_category_id":"women",
+          "c_alternativeUrl":"http://quiksilver.fr/fr/women/",
+          "c_enableCompare":true,
+          "c_mccExcludeMobile":1,
+          "c_showInMenu":0
+        }
+      ],
+      "id":"women",
+      "name":"Femme",
+      "page_description":"Quiksilver Women : Découvrez toute la collection Femme Quiksilver sur le Magasin en ligne officiel de la marque. LIVRAISON OFFERTE",
+      "page_title":"Quiksilver Women : Vêtements et Accessoires Femme",
+      "parent_category_id":"root",
+      "c_alternativeUrl":"http://quiksilver.fr/fr/women",
+      "c_enableCompare":true,
+      "c_mccExcludeMobile":1,
+      "c_saleCategory":false,
+      "c_seoAssetID":"women-clothing-seo-description",
+      "c_showInMenu":0
+    },
+    {
+      "categories":[
+        {
+          "id":"christmas_pack",
+          "name":"Packs de Noël",
+          "page_description":"Faites le plein d'idées Cadeaux de Noël avec les Pack Noël Quiksilver sur le site officiel. Livraison Gratuite pour toute Commande !! ",
+          "page_title":"Idées Cadeaux de Noël 2013 : les Packs de Noël ",
+          "parent_category_id":"christmas",
+          "c_enableCompare":true,
+          "c_mccExcludeMobile":0,
+          "c_showInMenu":0
+        },
+        {
+          "id":"christmas_mengiftidea",
+          "name":"Idées Cadeaux Homme",
+          "page_description":"Faites le plein d'idées de Cadeaux de Noël pour Homme Quiksilver sur le site officiel. Livraison Gratuite pour toute Commande !! ",
+          "page_title":"Cadeaux de Noël Homme : idées cadeaux de Noël 2013",
+          "parent_category_id":"christmas",
+          "c_catBannerID":"christmas-men-headermenu-highlight",
+          "c_enableCompare":true,
+          "c_mccExcludeMobile":0,
+          "c_saleCategory":false,
+          "c_seoAssetID":"christmas-men-gift-idea-seo-description",
+          "c_showInMenu":1
+        },
+        {
+          "id":"christmas_womengiftidea",
+          "name":"Idées Cadeaux Femme",
+          "page_description":"Faites le plein d'idées de Cadeaux de Noël pour Femme Quiksilver sur le site officiel. Livraison Gratuite pour toute Commande !! ",
+          "page_title":"Cadeaux de Noël Femme : idées cadeaux de Noël 2013",
+          "parent_category_id":"christmas",
+          "c_catBannerID":"christmas-women-headermenu-highlight",
+          "c_enableCompare":true,
+          "c_mccExcludeMobile":0,
+          "c_saleCategory":false,
+          "c_seoAssetID":"christmas-women-gift-idea-seo-description",
+          "c_showInMenu":1
+        },
+        {
+          "id":"christmas_kidsgiftidea",
+          "name":"Idées Cadeaux Enfants",
+          "page_description":"Faites le plein d'idées de Cadeaux de Noël pour Enfant Quiksilver sur le site officiel. Livraison Gratuite pour toute Commande !! ",
+          "page_title":"Cadeaux de Noël Enfant : idées cadeaux de Noël 2013",
+          "parent_category_id":"christmas",
+          "c_catBannerID":"christmas-kids-headermenu-highlight",
+          "c_enableCompare":true,
+          "c_mccExcludeMobile":0,
+          "c_saleCategory":false,
+          "c_seoAssetID":"christmas-kids-gift-idea-seo-description",
+          "c_showInMenu":1
+        }
+      ],
+      "id":"christmas",
+      "name":"Noël",
+      "page_description":"Faites le plein d’idées cadeaux de Noël. Retrouvez une sélection de vêtements et accessoires Quiksilver à offrir à pour Noël . LIVRAISON OFFERTE",
+      "page_title":"Cadeaux de Noël 2013 : la sélection de Noël ",
+      "parent_category_id":"root",
+      "c_enableCompare":true,
+      "c_mccExcludeMobile":1,
+      "c_saleCategory":false,
+      "c_seoAssetID":"christmas-seo-description",
+      "c_showInMenu":0
+    },
+    {
+      "categories":[
+        {
+          "id":"skate_collection",
+          "name":"Collections",
+          "page_description":"Mode Skate : Découvrez toute la Collection Skate Quiksilver sur la boutique en ligne officielle. Livraison Gratuite sans montant minimum",
+          "page_title":"Mode Skate Quiksilver : La collection Skate",
+          "parent_category_id":"skate",
+          "c_enableCompare":true,
+          "c_mccExcludeMobile":0,
+          "c_saleCategory":false,
+          "c_seoAssetID":"skate-collections-category-seo-description",
+          "c_showInMenu":1
+        },
+        {
+          "id":"skate_skateshop",
+          "name":"Skate Shop",
+          "page_description":"Tous les vêtements et accessoires Skate Quiksilver sont sur la boutique en ligne officielle. Livraison Gratuite pour toute commande !!",
+          "page_title":"Skate Shop Quiksilver : Le magasin de skate en ligne ",
+          "parent_category_id":"skate",
+          "c_enableCompare":true,
+          "c_mccExcludeMobile":0,
+          "c_seoAssetID":"skate-shop-category-seo-description",
+          "c_showInMenu":0
+        },
+        {
+          "id":"skate_community",
+          "name":"Communauté",
+          "page_description":"Tout l’univers Skate Quiksilver est en ligne ! Des photos, des vidéos, les dernières news des événements et les derniers Street styles pour l’hiver !",
+          "page_title":"Communauté Quiksilver Skate : Actu, Events, Vidéos",
+          "parent_category_id":"skate",
+          "c_alternativeUrl":"http://quiksilver.fr/fr/skate/",
+          "c_enableCompare":true,
+          "c_mccExcludeMobile":0,
+          "c_showInMenu":1
+        }
+      ],
+      "id":"skate",
+      "name":"Skate",
+      "page_description":"Quiksilver Skate : Découvrez toute la collection Skate Quiksilver sur le Magasin en ligne officielle de la marque. Livraison Gratuite pour toutes vos Commandes !!",
+      "page_title":"Skate Quiksilver : Shop, Riders, Evénements, Actu",
+      "parent_category_id":"root",
+      "c_alternativeUrl":"http://quiksilver.fr/fr/skate/",
+      "c_enableCompare":true,
+      "c_mccExcludeMobile":1,
+      "c_showInMenu":0
+    },
+    {
+      "categories":[
+        {
+          "id":"initiatives_collections",
+          "name":"Collections",
+          "page_title":"1 / Initiatives_collections",
+          "parent_category_id":"initiatives",
+          "c_enableCompare":true,
+          "c_mccExcludeMobile":0,
+          "c_showInMenu":0
+        },
+        {
+          "id":"initiatives_community",
+          "name":"Communauté",
+          "parent_category_id":"initiatives",
+          "c_alternativeUrl":"http://the-quiksilver-initiative.com/fre",
+          "c_enableCompare":true,
+          "c_mccExcludeMobile":0,
+          "c_showInMenu":0
+        },
+        {
+          "id":"initiatives_ecoshop",
+          "name":"Eco Shop",
+          "page_description":"Retrouvez toute la collection de vêtements et accessoires Eco Conçus Quiksilver sur la boutique en ligne officiel. LIVRAISON OFFERTE",
+          "page_title":"Eco shop: vêtements et accessoires eco responsables",
+          "parent_category_id":"initiatives",
+          "c_enableCompare":true,
+          "c_mccExcludeMobile":0,
+          "c_seoAssetID":"eco-shop-seo-description",
+          "c_showInMenu":0
+        }
+      ],
+      "id":"initiatives",
+      "name":"Initiative",
+      "page_description":"Initiative Quiksilver",
+      "page_title":"Initiative Quiksilver",
+      "parent_category_id":"root",
+      "c_alternativeUrl":"http://quiksilver.fr/fr/initiative/",
+      "c_enableCompare":true,
+      "c_mccExcludeMobile":1,
+      "c_showInMenu":0
+    },
+    {
+      "categories":[
+        {
+          "id":"music_community",
+          "name":"Communauté",
+          "page_description":"Tout l’univers Musique Quiksilver est en ligne ! Les artistes, les vidéos, les derniers concerts sont sur le site officiel Quiksilver",
+          "page_title":"Communauté Quiksilver Musique : Artistes, Actu, Events, Vidéos",
+          "parent_category_id":"music",
+          "c_alternativeUrl":"http://quiksilver.fr/fr/music/",
+          "c_enableCompare":true,
+          "c_mccExcludeMobile":0,
+          "c_showInMenu":1
+        },
+        {
+          "id":"music_shop",
+          "name":"Music Shop",
+          "page_description":"Découvrez le Quiksilver Music Store, le magasin de musique Officiel Quiksilver. Livraison Gratuite Pour toute commande !! ",
+          "page_title":"Music Store Quiksilver : Le magasin de musique",
+          "parent_category_id":"music",
+          "c_enableCompare":true,
+          "c_mccExcludeMobile":0,
+          "c_showInMenu":0
+        }
+      ],
+      "id":"music",
+      "name":"Musique",
+      "page_description":"Quiksilver Musique: Découvrez toute la collection Quiksilver Musique sur le Magasin en ligne officiel de la marque. LIVRAISON OFFERTE",
+      "page_title":"Quiksilver Musique : Store, Artistes, Events, Videos",
+      "parent_category_id":"root",
+      "c_alternativeUrl":"http://quiksilver.fr/fr/music/",
+      "c_enableCompare":true,
+      "c_mccExcludeMobile":1,
+      "c_showInMenu":0
+    },
+    {
+      "categories":[
+        {
+          "id":"gooddeals_men",
+          "name":"Bons Plans Homme",
+          "page_description":"Retrouvez tous les bons plans vêtements et accessoires Quiksilver pour Homme sur le site officiel. . Livraison Gratuite quelque soit le montant de la commande. ",
+          "page_title":"Bon Plan Homme Quiksilver : Nos Bons Plans et Promos Homme",
+          "parent_category_id":"gooddeals",
+          "c_enableCompare":true,
+          "c_mccExcludeMobile":0,
+          "c_saleCategory":true,
+          "c_showInMenu":1
+        },
+        {
+          "id":"gooddeals_women",
+          "name":"Bons Plans Femme",
+          "page_description":"Retrouvez tous les bons plans vêtements et accessoires Quiksilver pour Femme sur le site officiel. . Livraison Gratuite quelque soit le montant de la commande. ",
+          "page_title":"Bon Plan Femme Quiksilver : Nos Bons Plans et Promos Femme",
+          "parent_category_id":"gooddeals",
+          "c_enableCompare":true,
+          "c_mccExcludeMobile":0,
+          "c_saleCategory":true,
+          "c_showInMenu":1
+        },
+        {
+          "id":"gooddeals_kids",
+          "name":"Bons plans Enfant",
+          "page_description":"Retrouvez tous les bons plans vêtements et accessoires Quiksilver pour Enfant sur le site officiel. . Livraison Gratuite quelque soit le montant de la commande. ",
+          "page_title":"Bon Plan Enfant Quiksilver : Nos Bons Plans et Promos Enfant",
+          "parent_category_id":"gooddeals",
+          "c_enableCompare":true,
+          "c_mccExcludeMobile":0,
+          "c_saleCategory":true,
+          "c_showInMenu":1
+        }
+      ],
+      "id":"gooddeals",
+      "name":"Bons Plans",
+      "page_description":"Bons Plans Quiksilver : Découvrez tous les bons plans Quiksilver sur le Magasin en ligne officiel de la marque. LIVRAISON OFFERTE",
+      "page_title":"Bons Plans Quiksilver : Toutes nos offres et promos",
+      "parent_category_id":"root",
+      "c_enableCompare":true,
+      "c_mccExcludeMobile":1,
+      "c_saleCategory":false,
+      "c_showInMenu":0
+    }
+  ],
+  "id":"root",
+  "name":"quiksilver navigation",
+  "c_enableCompare":false,
+  "c_saleCategory":false,
+  "c_showInMenu":1
 }
+
+
+
+
+            <!-- <div class="col-lg-3">
+                <div class="col-md-12 parent-cat">
+                    Catecories
+                </div>
+                Subcatecories
+            </div>
+                
+            <div class="col-lg-3">
+                <div class="col-md-12">
+                    Catecories
+                </div>                
+                Subcatecories
+            </div>
+                
+            <div class="col-lg-3">
+                <div class="col-md-12">
+                    Catecories
+                </div>                
+                Subcatecories
+            </div> 
+
+            <div class="col-lg-3">
+                <div class="col-md-12">
+                    Catecories
+                </div>                
+                Subcatecories
+            </div> -->
