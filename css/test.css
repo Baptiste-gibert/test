@@ -12,3 +12,9 @@
     border-size: 1px;
     border-color: white;
 }
+
+.parent-cat
+{
+    color: white;
+    font-style: bold;
+}
