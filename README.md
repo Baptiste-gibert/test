@@ -15,4 +15,4 @@ url : http://www.quiksilver.fr/s/QS-FR/dw/shop/v13_1/categories/root?levels=2&cl
 
 method : GET
 
-data type : json/jsonp
+data type : jsonp
