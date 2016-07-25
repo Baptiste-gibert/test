@@ -11,7 +11,7 @@ If the resolution of the window is less than 640px width, the page should look l
 
 API REST
 
-url : http://www.quiksilver.fr/s/QS-FR/dw/shop/v13_1/categories/root?levels=2&client_id=a76723ac-440f-4814-bd34-d492a140d78e
+url : http://www.quiksilver.fr/s/QS-FR/dw/shop/v15_6/categories/root?levels=2&client_id=a76723ac-440f-4814-bd34-d492a140d78e
 
 method : GET
 
